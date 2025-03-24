@@ -1,0 +1,1 @@
+console.log("Hello World ! Le fichier script est bien récupéré !");

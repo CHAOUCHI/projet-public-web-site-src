@@ -1,0 +1,12 @@
+[
+    {
+        "nom": "Pomme",
+        "couleur": "Rouge",
+        "gout": "Sucré-Acide"
+    },
+    {
+        "nom": "Banane",
+        "couleur": "Jaune",
+        "gout": "Sucré"
+    }
+]
